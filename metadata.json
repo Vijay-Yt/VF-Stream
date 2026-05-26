@@ -1,0 +1,6 @@
+{
+  "name": "VF Stream",
+  "description": "Premium native Android movie streaming and download app by Vijay Film Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
